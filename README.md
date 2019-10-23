@@ -13,7 +13,6 @@ Analyzing a real world dataset with SQL and Python in jupyter notebook
 * [Status](#status)
 * [Contact](#contact)
 
-
 ## Contact
 If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
 just want to shoot a question, please feel free to connect with me on 
