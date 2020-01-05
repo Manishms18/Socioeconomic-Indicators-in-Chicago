@@ -4,12 +4,7 @@ Analyzing a real world dataset with SQL and Python in jupyter notebook
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
-* [Demo](#demo)
 * [Technologies and Tools](#technologies-and-tools)
-* [Setup](#setup)
-* [Process](#process)
-* [Code Examples](#code-examples)
-* [Features](#features)
 * [Status](#status)
 * [Contact](#contact)
 
